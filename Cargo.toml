@@ -1,0 +1,8 @@
+[package]
+name = "animalsiknow-github-io"
+version = "0.1.0"
+authors = ["Simon Génier <1782845+animalsiknow@users.noreply.github.com>"]
+homepage = "https://animalsiknow.github.io/"
+
+[dependencies.ei-sys]
+version = "0.3.0"
