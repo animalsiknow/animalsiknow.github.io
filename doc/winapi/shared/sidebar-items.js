@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["basetsd","Type definitions for the basic sized types."],["guiddef","GUID definition"],["inaddr","IPv4 Internet address"],["minwindef","Basic Windows Type Definitions for minwin partition"],["ntdef","Type definitions for the basic types."]]});

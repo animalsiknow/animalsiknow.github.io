@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["ISEQ_TYPE_BLOCK",""],["ISEQ_TYPE_CLASS",""],["ISEQ_TYPE_ENSURE",""],["ISEQ_TYPE_EVAL",""],["ISEQ_TYPE_MAIN",""],["ISEQ_TYPE_METHOD",""],["ISEQ_TYPE_PLAIN",""],["ISEQ_TYPE_RESCUE",""],["ISEQ_TYPE_TOP",""]],"type":[["Type",""]]});

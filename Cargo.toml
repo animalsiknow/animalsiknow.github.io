@@ -6,3 +6,6 @@ homepage = "https://animalsiknow.github.io/"
 
 [dependencies.ei-sys]
 version = "0.3.0"
+
+[dependencies.mri-sys]
+git = "https://github.com/animalsiknow/mri-sys"
