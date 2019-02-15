@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["InAddr","Wrapper around `in_addr` on which `From` is implemented."]],"type":[["in_addr","Type alias to the Windows version of `in_addr`."]]});
